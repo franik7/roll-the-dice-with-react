@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roll-the-dice-with-react/static/css/main.c586799b.css",
+    "main.js": "/roll-the-dice-with-react/static/js/main.6e0d04a5.js",
+    "static/js/787.b578fc2b.chunk.js": "/roll-the-dice-with-react/static/js/787.b578fc2b.chunk.js",
+    "index.html": "/roll-the-dice-with-react/index.html",
+    "main.c586799b.css.map": "/roll-the-dice-with-react/static/css/main.c586799b.css.map",
+    "main.6e0d04a5.js.map": "/roll-the-dice-with-react/static/js/main.6e0d04a5.js.map",
+    "787.b578fc2b.chunk.js.map": "/roll-the-dice-with-react/static/js/787.b578fc2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c586799b.css",
+    "static/js/main.6e0d04a5.js"
+  ]
+}
